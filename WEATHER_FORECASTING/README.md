@@ -3,6 +3,7 @@
 ## Introduction
 
 Welcome to the Weather Forecasting App project! This project is a web application built using React and Vite, designed to provide users with real-time weather conditions based on their location. The app offers features such as checking wind speed, searching weather via zip code, viewing temperature, and getting forecasts for the next 5-7 days. It fetches data from a weather API to ensure up-to-date information.
+![Weather Forecasting App Screenshot](https://github.com/charantejasparimi/LLINTERN/blob/main/WEATHER_FORECASTING/wf.png)
 
 ## Features
 
