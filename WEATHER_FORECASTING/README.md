@@ -21,10 +21,6 @@ Welcome to the Weather Forecasting App project! This project is a web applicatio
 - **HTML:** Structures the app interface and organizes content.
 - **CSS:** Styles the layout and elements for an aesthetically pleasing design.
 
-## Screenshot
-
-![Weather Forecasting App Screenshot](./screenshot.png)
-
 ## Getting Started
 
 ### Prerequisites
